@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+azure-devops = "==7.1.0b4"
+boto3 = "==1.34.6"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
